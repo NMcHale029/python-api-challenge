@@ -29,10 +29,10 @@ A function ('lin_reg') was created to take two columns from the DataFrame to plo
 Each of the graphs listed above were then plotted again for the northern and southern hemsipheres with linear regression plotted and labled.
 
 ### Discussion on findings of WeatherPy:
-- It appeats that there is moderate to strong correlation between latitude of a city and the temperature
+- It appears that there is moderate to strong correlation between latitude of a city and the temperature
 - These charts suggest that the correlation is stronger in the southern hemisphere (0.82) than in the northern (-0.58)
-- In the northern hemisphere, as you go up 1 latitude you can expect there to be a .23 drop in temperature(C)
-- In the southern hemishpere, as you move on latitude close to the equater, you can expect a .47 increase in temperature(C)
+- In the northern hemisphere, as you move 1 latitude further from the equater, you can expect there to be a .23 drop in temperature(C)
+- In the southern hemishpere, as you move 1 latitude closer to the equater, you can expect a .47 increase in temperature(C)
 - There does not appear to be a correlation between a city's latitude and its humidity, Cloudiness, or Wind Speed.
 
 ### Description of VacationPy
